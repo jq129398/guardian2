@@ -18,12 +18,12 @@ require (
 	github.com/sethvargo/go-githubactions v1.3.1
 	github.com/sethvargo/go-retry v0.3.0
 	github.com/shurcooL/githubv4 v0.0.0-20240727222349-48295856cce7
-	gitlab.com/gitlab-org/api/client-go v0.129.0
+	gitlab.com/gitlab-org/api/client-go v0.130.1
 	golang.org/x/exp v0.0.0-20250210185358-939b2ce775ac
 	golang.org/x/oauth2 v0.30.0
-	google.golang.org/api v0.235.0
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250512202823-5a2f75b736a9
-	google.golang.org/grpc v1.72.1
+	google.golang.org/api v0.236.0
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250528174236-200df99c418a
+	google.golang.org/grpc v1.72.2
 	google.golang.org/protobuf v1.36.6
 )
 
